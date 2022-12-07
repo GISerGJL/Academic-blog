@@ -16,24 +16,28 @@ output:
 site: distill::distill_website
 ---
  
-## Bio
+## About Me
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Hi! I am Jiale Guo, a Research Assistant(ra) at the Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences (NIEER, CAS www.nieer.cas.cn). 
+My research interests are very broad and include both Geospatial artificial intelligence (Geo-AI), X-AI, GIScience, Geospatial statistics and Geospatial-temporal analysis, as well as Hydrometeorology, Flash Drought, Snow Drought, hydrological model et.al.
+You might be wondering why I have such diverse research interests. It is well known that until the 1960s, much of the study done by geographers was qualitative in nature, necessitating a clear differentiation between one being a physical geographer and the other. However, the metrological geography revolution occurred, allowing geography to be studied scientifically and numerically despite its descriptive legacy. According to me, the age of the explosion of big data in geography has begun as a result of the ongoing development of earth observation technology. 
+There is now both a wealth of quantitative analysis tools and a vast amount of geographical data available as input to geographic research. I do not confine myself to physical geography, human geography, or geoinformatics because of this; instead, I concentrate more on the methodological components of geography. Combining geographic approaches and data-driven solutions to contemporary geospatial difficulties is a particularly intriguing topic since spatial position variables are a crucial component of all sorts of geographic data. This is why I prefer the term "spatial data scientist" to be used.
+So you can call me a spatial data scientist.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Bachelor of Science, Geographical Science,** | Chuzhou University, China 2017-2021
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Specialization: Land Management
 
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
+## Honors
+ 	Graduates with excellent academic performance in colleges and universities in Anhui Province, (1/57)  	    Jun 2021
+ 	National Encouragement scholarship, Education Department of Anhui Province, (1/57)      			   	    	    Oct 2020
+ 	Academic Excellence Scholarship (First-class) of Chuzhou University, (1/57)					                        Oct 2020
+ 	Academic Excellence Scholarship (Third-class)) of Chuzhou University, (8/57) 				                        Oct 2019
+ 	Academic Excellence Scholarship (Third-class) of Chuzhou University, (3/57) 					                      Oct 2018
+ 	Excellent Student Leader of Chuzhou University, three times in 2018&2019&2020     
+ 	Award ¥5000 grant of "Internet +" University Student Innovation and Entrepreneurship Competition 	          Oct 2020
 
 ## Experience
 
