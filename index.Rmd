@@ -22,7 +22,7 @@ Hi! I am Jiale Guo, a Research Assistant(ra) at the Northwest Institute of Eco-E
 My research interests are very broad and include both Geospatial artificial intelligence (Geo-AI), X-AI, GIScience, Geospatial statistics and Geospatial-temporal analysis, as well as Hydrometeorology, Flash Drought, Snow Drought, hydrological model et.al.
 You might be wondering why I have such diverse research interests. It is well known that until the 1960s, much of the study done by geographers was qualitative in nature, necessitating a clear differentiation between one being a physical geographer and the other. However, the metrological geography revolution occurred, allowing geography to be studied scientifically and numerically despite its descriptive legacy. According to me, the age of the explosion of big data in geography has begun as a result of the ongoing development of earth observation technology. 
 There is now both a wealth of quantitative analysis tools and a vast amount of geographical data available as input to geographic research. I do not confine myself to physical geography, human geography, or geoinformatics because of this; instead, I concentrate more on the methodological components of geography. Combining geographic approaches and data-driven solutions to contemporary geospatial difficulties is a particularly intriguing topic since spatial position variables are a crucial component of all sorts of geographic data. This is why I prefer the term "spatial data scientist" to be used.
-So you can call me a spatial data scientist.
+So, you can call me a spatial data scientist.
 
 ## Education
 
