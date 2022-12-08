@@ -21,6 +21,9 @@ site: distill::distill_website
 - There is now both a wealth of quantitative analysis tools and a vast amount of geographical data available as input to geographic research. I do not confine myself to physical geography, human geography, or geoinformatics because of this; instead, I concentrate more on the methodological components of geography. Combining geographic approaches and data-driven solutions to contemporary geospatial difficulties is a particularly intriguing topic since spatial position variables are a crucial component of all sorts of geographic data. This is why I prefer the term "spatial data scientist" to be used.
 - So, you can call me a spatial data scientist.
 
+- <a href="https://r-girls.github.io/website/getting_started.html" target="_blank">Getting Started</a>
+- Ready made <a href="https://r-girls.github.io/website/math_lessons.html" target="_blank">Math</a>, <a href="https://r-girls.github.io/website/science_lessons.html" target="_blank">Science</a> and <a href="https://r-girls.github.io/website/geography_lessons.html" target="_blank">Geography</a> lessons.
+- Or,	join us for a friendly chat on <a href="https://r-girls.slack.com" target="_blank">Slack</a>
 ## Education
 
 **Bachelor of Science, Geographical Science, | Chuzhou University, China 2017-2021**
@@ -29,12 +32,12 @@ site: distill::distill_website
 
 ## Honors
 - Graduates with excellent academic performance in colleges and universities in Anhui Province, (1/57)  	    Jun 2021
-- National Encouragement scholarship, Education Department of Anhui Province, (1/57)      			   	    	    Oct 2020
-- Academic Excellence Scholarship (First-class) of Chuzhou University, (1/57)					                        Oct 2020
-- Academic Excellence Scholarship (Third-class)) of Chuzhou University, (8/57) 				                        Oct 2019
-- Academic Excellence Scholarship (Third-class) of Chuzhou University, (3/57) 					                      Oct 2018
+- National Encouragement scholarship, Education Department of Anhui Province, (1/57)Oct 2020
+- Academic Excellence Scholarship (First-class) of Chuzhou University, (1/57)Oct 2020
+- Academic Excellence Scholarship (Third-class)) of Chuzhou University, (8/57)Oct 2019
+- Academic Excellence Scholarship (Third-class) of Chuzhou University, (3/57)Oct 2018
 - Excellent Student Leader of Chuzhou University, three times in 2018&2019&2020     
-- Award ¥5000 grant of "Internet +" University Student Innovation and Entrepreneurship Competition 	          Oct 2020
+- Award ¥5000 grant of "Internet +" University Student Innovation and Entrepreneurship Competition Oct 2020
 
 ## Experience
 
